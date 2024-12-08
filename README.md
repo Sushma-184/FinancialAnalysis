@@ -1,5 +1,4 @@
 # FinancePowerBI
-Link to report: https://shorturl.at/6Til0
 
 ## Key Performance Indicators (KPIs)
 ### 1. Total Revenue
